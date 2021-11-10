@@ -1,5 +1,5 @@
 
-### Hi there, I'm Akif - aka <a href="https://akifzsche.github.io/">Akifzsche</a> 👋
+### Hi there, I'm Akif - aka <a href="https://akifzsche.github.io/" target="_blank">Akifzsche</a> 👋
 
 ## I'm a Junior Front-end Developer 
 <hr/>
