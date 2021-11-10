@@ -11,7 +11,7 @@
 <hr/>
 
 Connect with me:
-<a href="https://www.linkedin.com/in/akifzsche/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/akifzsche/" target="_blank">LinkedIn</a>
 
 
 
