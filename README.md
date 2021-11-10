@@ -1,8 +1,8 @@
 
-### Hi there, I'm Akif - aka <a href="https://akifzsche.github.io/" target="_blank" >Akifzsche</a> 👋
+## Hi there, I'm Akif - aka <a href="https://akifzsche.github.io/" target="_blank" >Akifzsche</a> 👋
 
-## I'm a Junior Front-end Developer.
-
+### I'm a Junior Front-end Developer.
+<hr/>
 <ul>
 <li>🌱 I’m currently learning Vuejs and Reactjs.</li>
 <li>🤝 I’m looking to collaborate with other beginner developers.</li>
