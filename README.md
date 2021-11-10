@@ -1,7 +1,7 @@
 
-##Hi there, I'm Akif - aka <a href="https://akifzsche.github.io/">Akifzsche</a> 👋
+### Hi there, I'm Akif - aka <a href="https://akifzsche.github.io/">Akifzsche</a> 👋
 
-##I'm a Junior Front-end Developer 
+## I'm a Junior Front-end Developer 
 <hr/>
 <ul>
 <li>🌱 I’m currently learning Vuejs and Reactjs</li>
