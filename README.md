@@ -4,7 +4,7 @@
 ### I'm a Junior Front-end Developer.
 <hr/>
 <ul>
-<li>🌱 I’m currently learning NodeJS .</li>
+<li>🌱 I’m currently learning NodeJS & ReactJS.</li>
 <li>🤝 I’m looking to collaborate with other beginner developers.</li>
 <li>⚡ Fun fact: I love to play video games and reading book.</li>
 </ul>
