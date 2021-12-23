@@ -2,7 +2,7 @@
 ## Hi there, I'm Akif - aka <a href="https://akifzsche.github.io/" target="_blank" >Akifzsche</a> 👋
 
 
-<hr/>
+
 <ul>
 <li> I love JS.</li>
 
