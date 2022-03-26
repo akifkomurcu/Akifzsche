@@ -29,12 +29,6 @@
 
 </p>
 
-<h3>Connect with me:</h3>
-<p>
-<a href="https://twitter.com/akifzsche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naymanberkay" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/akifzsche/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkay-nayman" height="30" width="40" /></a>
-</p>
-
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akifzsche&show_icons=true&theme=radical&locale=en&layout=compact" width="45%" alt="akifzsche" /></p>
