@@ -40,8 +40,7 @@
 <h3>Repository</h3>
 
 <a href="https://github.com/akifzsche/weather-app-reactjs" width="100px">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=akifzsche&repo=
-weather-app-reactjs&theme=tokyonight" width="400px"/>
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=akifzsche&repo=weather-app-reactjs&theme=tokyonight" width="400px"/>
 </a>
 <a href="https://github.com/akifzsche/ski-game"   >
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akifzsche&repo=ski-game&theme=tokyonight" width="400px"/>
