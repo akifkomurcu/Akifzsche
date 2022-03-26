@@ -43,18 +43,18 @@
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akifzsche&repo=
 weather-app-reactjs&theme=tokyonight" width="400px"/>
 </a>
-<a href="https://github.com/akifzsche/ski-game">
+<a href="https://github.com/akifzsche/ski-game"  width="100px" >
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akifzsche&repo=ski-game&theme=tokyonight" width="400px"/>
 </a>
-<a href="https://github.com/akifzsche/todo-app-reactjs">
+<a href="https://github.com/akifzsche/todo-app-reactjs"  width="100px">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=akifzsche&repo=todo-app-reactjs&theme=tokyonight" width="400px"/>
 </a>
-<a href="https://github.com/akifzsche/weather-app">
+<a href="https://github.com/akifzsche/weather-app"  width="100px">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=akifzsche&repo=weather-app&theme=tokyonight" width="400px"/>
 </a>
-<a href="https://github.com/akifzsche/planner">
+<a href="https://github.com/akifzsche/planner"  width="100px">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=akifzsche&repo=planner&theme=tokyonight" width="400px"/>
 </a>
-<a href="https://github.com/akifzsche/Graduate-blog-system">
+<a href="https://github.com/akifzsche/Graduate-blog-system"  width="100px">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=akifzsche&repo=Graduate-blog-system&theme=tokyonight" width="400px"/>
 </a>
