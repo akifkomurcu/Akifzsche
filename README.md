@@ -40,20 +40,21 @@
 <h3>Repository</h3>
 
 <a href="https://github.com/akifzsche/weather-app-reactjs" width="100px">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=akifzsche&repo=contacts-app&theme=tokyonight" width="400px"/>
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=akifzsche&repo=
+weather-app-reactjs&theme=tokyonight" width="400px"/>
 </a>
 <a href="https://github.com/akifzsche/ski-game">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=akifzsche&repo=chat-app&theme=tokyonight" width="400px"/>
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=akifzsche&repo=ski-game&theme=tokyonight" width="400px"/>
 </a>
 <a href="https://github.com/akifzsche/todo-app-reactjs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akifzsche&repo=web-site-1&theme=tokyonight" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akifzsche&repo=todo-app-reactjs&theme=tokyonight" width="400px"/>
 </a>
 <a href="https://github.com/akifzsche/weather-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akifzsche&repo=turkey-cities-weather-app&theme=tokyonight" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akifzsche&repo=weather-app&theme=tokyonight" width="400px"/>
 </a>
 <a href="https://github.com/akifzsche/planner">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akifzsche&repo=turkey-cities-weather-app&theme=tokyonight" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akifzsche&repo=planner&theme=tokyonight" width="400px"/>
 </a>
 <a href="https://github.com/akifzsche/Graduate-blog-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akifzsche&repo=turkey-cities-weather-app&theme=tokyonight" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akifzsche&repo=Graduate-blog-system&theme=tokyonight" width="400px"/>
 </a>
