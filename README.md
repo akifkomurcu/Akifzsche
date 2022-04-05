@@ -56,3 +56,6 @@
 <a href="https://github.com/akifzsche/Graduate-blog-system" >
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=akifzsche&repo=Graduate-blog-system&theme=tokyonight" width="400px"/>
 </a>
+<a href="https://github.com/akifzsche/chat-app-reactjs" >
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akifzsche&repo=chat-app-reactjs&theme=tokyonight" width="400px"/>
+</a>
