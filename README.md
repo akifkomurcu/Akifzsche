@@ -34,7 +34,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akifzsche&show_icons=true&theme=radical&locale=en&layout=compact" width="45%" alt="akifzsche" /></p>
 
-<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akifzsche&show_icons=true&theme=dark&locale=en" alt="berkaynayman" width="52%"/></p>
+<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akifzsche&show_icons=true&theme=dark&locale=en" alt="akifzsche" width="52%"/></p>
 
 <h3>Repository</h3>
 
