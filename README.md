@@ -33,8 +33,8 @@
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akifzsche&show_icons=true&theme=radical&locale=en&layout=compact" width="45%" alt="akifzsche" /></p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akifzsche)](https://github.com/anuraghazra/github-readme-stats)
-<!-- <p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akifzsche&show_icons=true&theme=dark&locale=en" alt="akifzsche" width="52%"/></p> -->
+
+<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akifzsche&show_icons=true&theme=dark&locale=en" alt="akifzsche" width="52%"/></p>
 
 <h3>Repository</h3>
 
