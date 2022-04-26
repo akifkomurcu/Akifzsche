@@ -21,10 +21,9 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
  <a href="https://www.redis.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/> </a>
+ <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <!-- <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> -->
 
-
-<!-- <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> -->
 
 
 
@@ -38,7 +37,7 @@
 
 <h3>Repository</h3>
 
-<a href="https://github.com/akifzsche/weather-app-reactjs" width="100px">
+<a href="https://github.com/akifzsche/weather-app-reactjs" >
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akifzsche&repo=weather-app-reactjs&theme=tokyonight" width="400px"/>
 </a>
 <a href="https://github.com/akifzsche/ski-game"   >
