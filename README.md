@@ -65,5 +65,5 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=akifzsche&repo=Note-App-redux&theme=tokyonight" width="400px"/>
 </a>
 <a href="https://github.com/akifzsche/tesodev-case" >
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akifzsche&repo=tesodev-case&theme=tokyonight" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akifzsche&repo=tesodev-case&theme=tokyonight" width="400px" height="120px"/>
 </a>
