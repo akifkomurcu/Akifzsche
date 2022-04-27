@@ -64,6 +64,7 @@
 <a href="https://github.com/akifzsche/Note-App-redux" >
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=akifzsche&repo=Note-App-redux&theme=tokyonight" width="400px"/>
 </a>
-<a href="https://github.com/akifzsche/tesodev-case" >
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akifzsche&repo=tesodev-case&theme=tokyonight" width="400px" height="120px"/>
+<a href="https://github.com/akifzsche/todo-app-reactjs"  >
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akifzsche&repo=todo-app-reactjs&theme=tokyonight" width="400px"/>
 </a>
+
