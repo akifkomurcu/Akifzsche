@@ -38,41 +38,41 @@
 <h3>Repository</h3>
 <a href="https://github.com/akifzsche/weather-app-reactjs">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=akifzsche&repo=weather-app-reactjs&theme=tokyonight"
-        width="400px" height="200px" />
+        width="400px" />
 </a>
 <a href="https://github.com/akifzsche/ski-game">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=akifzsche&repo=ski-game&theme=tokyonight"
-        width="400px" height="200px" />
+        width="400px" />
 </a>
 <a href="https://github.com/akifzsche/todo-app-reactjs">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=akifzsche&repo=todo-app-reactjs&theme=tokyonight"
-        width="400px" height="200px" />
+        width="400px" />
 </a>
 <a href="https://github.com/akifzsche/weather-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=akifzsche&repo=weather-app&theme=tokyonight"
-        width="400px" height="200px" />
+        width="400px" />
 </a>
 <a href="https://github.com/akifzsche/planner">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=akifzsche&repo=planner&theme=tokyonight"
-        width="400px" height="200px" />
+        width="400px" />
 </a>
 <a href="https://github.com/akifzsche/Graduate-blog-system">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=akifzsche&repo=Graduate-blog-system&theme=tokyonight"
-        width="400px" height="200px" />
+        width="400px" />
 </a>
 <a href="https://github.com/akifzsche/chat-app-reactjs">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=akifzsche&repo=chat-app-reactjs&theme=tokyonight"
-        width="400px" height="200px" />
+        width="400px" />
 </a>
 <a href="https://github.com/akifzsche/todoApp-redux">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=akifzsche&repo=todoApp-redux&theme=tokyonight"
-        width="400px" height="200px" />
+        width="400px" />
 </a>
 <a href="https://github.com/akifzsche/Note-App-redux">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=akifzsche&repo=Note-App-redux&theme=tokyonight"
-        width="400px" height="200px" />
+        width="400px" />
 </a>
 <a href="https://github.com/akifzsche/tesodev-case">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=akifzsche&repo=tesodev-case&theme=tokyonight"
-        width="400px" height="200px" />
+        width="400px" />
 </a>
