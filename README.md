@@ -87,4 +87,8 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=akifzsche&repo=memory-card-game-redux&theme=tokyonight"
         width="400px" />
 </a>
+<a href="https://github.com/akifzsche/markdown-previewer-reactjs">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=akifzsche&repo=markdown-previewer-reactjs&theme=tokyonight"
+        width="400px" />
+</a>
 
