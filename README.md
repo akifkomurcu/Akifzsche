@@ -2,11 +2,11 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{akifzsche}/count.svg" alt="Visitor's Count" /></p>
  <img align="right" width="200px" src="https://media2.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e471kiltwhnfr9210tni2l6ndlw919nwcp933go6f9i&rid=giphy.gif&ct=g"/>
 
-<h1 align="center"> Hi there👋 I'm Akif. aka <a href="https://akifzsche.github.io/" target="_blank" >Akifzsche</a> </h1>
+<h1 align="left"> Hi there👋 I'm Akif. aka <a href="https://akifzsche.github.io/" target="_blank" >Akifzsche</a> </h1>
 
-<div align="center">
+<div align="left">
 
-<h2 align="center">Junior Frontend Developer</h2>
+<h2 align="left">Junior Frontend Developer</h2>
  
  🔭 I'm currently working on JavaScript Technologies </br>
 
