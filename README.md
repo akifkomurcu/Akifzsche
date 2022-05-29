@@ -54,8 +54,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=akifzsche&repo=chat-app-reactjs&theme=tokyonight"
         width="400px" />
 </a>
-<a href="https://github.com/akifzsche/todoApp-redux">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akifzsche&repo=todoApp-redux&theme=tokyonight"
+<a href="https://github.com/akifzsche/covid-19-tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akifzsche&repo=covid-19-tracker&theme=tokyonight"
         width="400px" />
 </a>
 <a href="https://github.com/akifzsche/Note-App-redux">
