@@ -1,5 +1,4 @@
-<p align="center"> Visitor Counter 🕵🏼</p>
-<p align="center"><img src="https://profile-counter.glitch.me/{akifzsche}/count.svg" alt="Visitor's Count" /></p>
+
 
 
 <h1 align="center"> Hi there👋 I'm Akif. aka <a href="https://akifzsche.github.io/" target="_blank" >Akifzsche</a> </h1>
