@@ -1,13 +1,13 @@
 
 
 
-<h1 align="center"> Hi there👋 I'm Akif. aka <a href="https://akifzsche.github.io/" target="_blank" >Akifzsche</a> </h1>
+<!--<h1 align="center"> Hi there👋 I'm Akif. aka <a href="https://akifzsche.github.io/" target="_blank" >Akifzsche</a> </h1>
 
 <div align="center">
 
 <h2 align="center">Junior Frontend Developer</h2>
  
- 🔭 I'm currently working on JavaScript Technologies </br>
+ 🔭 I'm currently working on JavaScript Technologies </br>-->
 
 <h3>Languages and Tools:</h3>
 <p>
